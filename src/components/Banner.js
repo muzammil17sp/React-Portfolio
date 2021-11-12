@@ -37,11 +37,9 @@ const Banner = () => {
                 </a>
               </p>
               <p className="text-white text-3xl cursor-pointer">
-                <a
-                  href="https://www.linkedin.com/in/muzammil-rafiq-3896081b4/"
+                <a href="https://www.linkedin.com/in/muzammil-rafiq-3896081b4/"
                   target="_blank"
                 >
-                  {" "}
                   <i class="fab fa-linkedin-in"></i>
                 </a>
               </p>
@@ -57,7 +55,7 @@ const Banner = () => {
               </p>
             </motion.div>
           </div>
-          <a href="#projects">
+          <a href="#project">
             <button className="px-5 py-3 md:w-3/6 w-full bg-background  text-base md:text-xl text-white  rounded-sm mt-2">
               See Projects
             </button>
