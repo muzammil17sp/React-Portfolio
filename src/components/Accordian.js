@@ -6,7 +6,7 @@ const Accordian = ({ question, answer, quesAns }) => {
     const [open, setopen] = useState(false)
 
     return (
-        <motion.div layout className="  px-3 py-6  border-b-2 " onClick={() => setopen(!open)}>
+        <motion.div layout className="px-3 py-6 border-b-2 " onClick={() => setopen(!open)}>
             <motion.div layout className="flex items-center justify-between cursor-pointer" >
                 <motion.p className="text-white font-lower font-bold text-xl">{question}</motion.p>
                 {
@@ -18,7 +18,7 @@ const Accordian = ({ question, answer, quesAns }) => {
             </motion.div>
             {
                 open &&
-                <motion.div layout className="mt-5 ">
+                <motion.div layout className="mt-5">
                     {
                         answer ?
                             <motion.p className="font-lower text-white transition">{answer}</motion.p> :

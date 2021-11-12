@@ -3,8 +3,4 @@
 @tailwind utilities;
 
 
-  @layer utilities {
-    html: {
-      scroll-behavior: smooth;
-  }
-  }
+ 
