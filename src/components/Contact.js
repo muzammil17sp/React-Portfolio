@@ -157,9 +157,13 @@ const Contact = () => {
               <p className="text-xl font-lower text-textColor ">
                 malikkath78@gmail.com
               </p>
-              <button className="px-5 py-3 mx-auto bg-background  text-base md:text-xl text-white  rounded-sm mt-2">
+              <a href="./resume.pdf" download>
+
+
+              <button  className="px-5 py-3 mx-auto bg-background  text-base md:text-xl text-white  rounded-sm mt-4">
                 Download Resume
               </button>
+              </a>
             </div>
           </div>
         </div>
