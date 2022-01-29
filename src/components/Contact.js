@@ -40,9 +40,12 @@ const Contact = () => {
                             <p className="text-xl font-lower text-textColor " > Pakistan Karachi, 75330</p>
                             <p className="text-xl font-lower text-textColor " > +923082725497</p>
                             <p className="text-xl font-lower text-textColor " > malikkath78@gmail.com</p>
-                            <button className="px-5 py-3 mx-auto bg-background  text-base md:text-xl text-white  rounded-sm mt-2">
-                             Download Resume
+                            <button className="px-5 py-3 mx-auto bg-background  text-base md:text-xl text-white  rounded-sm mt-5" >
+
+                                <a href="./resume.pdf" download> Download Resume</a>
                             </button>
+
+
                         </div>
                     </div>
                 </div>

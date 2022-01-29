@@ -13,7 +13,7 @@ const Footer = () => {
                 <i class="fab fa-facebook-f"></i>
               </p>
               </a>
-            <a href="https://www.linkedin.com/in/muzammil-rafiq-3896081b4/" target="_blank">              
+            <a href="https://www.linkedin.com/in/muzammil-rafiq-b6682022a/" target="_blank">              
             <p className="text-dark text-2xl cursor-pointer bg-textColor p-2 rounded-full h-12 w-12  text-center">
                 <i class="fab fa-linkedin-in"></i>
               </p>

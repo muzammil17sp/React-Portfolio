@@ -22,7 +22,7 @@ const Banner = () => {
                 </a>
               </p>
               <p className="text-white text-3xl cursor-pointer">
-                <a href="https://www.linkedin.com/in/muzammil-rafiq-3896081b4/" target="_blank">                <i class="fab fa-linkedin-in"></i>
+                <a href="https://www.linkedin.com/in/muzammil-rafiq-b6682022a/" target="_blank">                <i class="fab fa-linkedin-in"></i>
                 </a>
               </p>
               <p className="text-white text-3xl cursor-pointer">
